@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: It is a very common and easy to use way of storing code, allowing other people to view and download code, and being able to see previous versions
+
