@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to ai development/research where incredibly large sets of data are being worked with to train and develop LLMs
