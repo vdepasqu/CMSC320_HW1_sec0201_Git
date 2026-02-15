@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging completely combines two branches whereas rebasing commits one branch on top of another branch
 
+Q4: What are you looking forward to this semester?
+
+Answer: Hopefully enjoying my classes this semester more than my classes last semester
